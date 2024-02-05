@@ -6,11 +6,9 @@ https://65baac01e5e1ef19fe633d51--tubular-squirrel-d92e48.netlify.app/
 # Installation and Running the Application
 - Make sure you have Node.js and npm installed on your local machine. 
 
-- Install dependecies
-  npm i
+- Install dependecies: npm i
 
-- Run the Application 
-  npm start
+- Run the Application: npm start
 
 - The application is available on 'localhost:3000' (confirm the port from terminal)
 
